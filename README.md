@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Dinesh Seveti</h1>
+<h1 align="center">Dinesh Seveti</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=28&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Full+Stack+Developer;IdeaForge+Hackathon+2026+🔥;Building+Intelligent+Systems+%26+Workflows" />
